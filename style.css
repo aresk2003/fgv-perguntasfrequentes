@@ -1,10 +1,10 @@
-
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 
         /*Body é a cor de fundo geral, fonte e etc*/
 body {
    background: linear-gradient(70deg,#424549 0%, #000000 20%, #424549 80%);  /*Gradiente de cores */
-    font-family: Garamond, sans-serif;
+    font-family: 'montserrat',sans-serif;
     /*background-color: #424549; */
    background-attachment: fixed;
    max-width: auto;
